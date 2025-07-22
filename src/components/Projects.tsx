@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { FaGithub, FaExternalLinkAlt, FaTimes } from "react-icons/fa";
 import NbtsImg from "../assets/project1.png";
 import BigInstitutionVideo from "../assets/biginstitution-demo.mp4";
-import TranscreditImg from "../assets/Transcredit.png";
+import TranscreditImg from "../assets/transcredit.png";
 
 const projects = [
   {
