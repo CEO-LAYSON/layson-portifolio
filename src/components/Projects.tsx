@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { FaGithub, FaExternalLinkAlt, FaTimes } from "react-icons/fa";
 import NbtsImg from "../assets/project1.png";
 import BigInstitutionVideo from "../assets/biginstitution-demo.mp4";
-//import TranscreditImg from "../assets/transcredit.png";
+import TranscreditImg from "../assets/transcredit.png";
 
 const projects = [
   {
@@ -46,7 +46,7 @@ const projects = [
       "Processed $2M+ in loans Q1 2024",
       "98% repayment rate via automated deductions",
     ],
-    //image: TranscreditImg,
+    image: TranscreditImg,
   },
   {
     title: "BigInstitutionfx",
