@@ -1,5 +1,5 @@
 // src/pages/Home.tsx
-import { motion } from "framer-motion"; // We'll now use this
+import { motion } from "framer-motion";
 import Header from "../components/Header";
 import Hero from "../components/Hero";
 import About from "../components/About";

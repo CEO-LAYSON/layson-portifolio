@@ -49,11 +49,16 @@ export default function About() {
               Who am I?
             </h3>
             <p className="text-gray-300 mb-6">
-              I'm Layson Gabriel Ndenza, a final-year Software Engineering
-              student at the University of Dodoma with a strong passion for web
-              and mobile applications development. I'm experienced in modern
-              technologies including React.js, Vue.js, Flutter with Dart,
-              Node.js, Spring Boot, and Laravel.
+              I'm Layson Gabriel Ndenza, A passionate and results-driven Full
+              Stack Software Developer with proven experience in building modern
+              web and mobile applications. Proficient in React.js, Vue.js,
+              Flutter with Dart, Node.js, Spring Boot, and Laravel. Skilled in
+              developing full-stack solutions and deploying scalable
+              applications on cloud platforms like AWS. Known for
+              problem-solving, fast learning, and a strong ability to
+              collaborate in team-oriented environments. Actively seeking
+              professional opportunities to deliver impactful software solutions
+              across various industries.
             </p>
             <p className="text-gray-300 mb-6">
               I'm adept at building and deploying full-stack applications on
