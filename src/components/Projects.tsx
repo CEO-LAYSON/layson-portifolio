@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { FaGithub, FaExternalLinkAlt, FaTimes } from "react-icons/fa";
 import NbtsImg from "../assets/project1.png";
 import BigInstitutionVideo from "../assets/biginstitution-demo.mp4";
+import TranscreditImg from "../assets/Transcredit.png";
 
 const projects = [
   {
@@ -22,6 +23,30 @@ const projects = [
     githubFrontend: "https://github.com/CEO-LAYSON/nbts-appointment-app.git",
     liveLink: "https://nbts-donors-app.netlify.app/",
     image: NbtsImg,
+  },
+  {
+    title: "TransCredit Core Banking System",
+    description:
+      "Microfinance core banking solution powering embedded lending services with 99.9% uptime. Processes 50,000+ daily transactions across fuel stations, SACCOs, and digital platforms in Tanzania.",
+    technologies: [
+      "Spring Boot",
+      "Kubernetes",
+      "Kafka",
+      "PostgreSQL",
+      "React.js",
+      "OAuth 2.0",
+      "Redis Cache",
+      "Swagger API Docs",
+    ],
+    githubFrontend: "https://github.com/CEO-LAYSON/transcredit.git",
+    liveLink: "https://transcredit.netlify.app/",
+    achievements: [
+      "Reduced loan approval time from 48hrs to <2 minutes",
+      "Integrated with 15+ mobile money providers",
+      "Processed $2M+ in loans Q1 2024",
+      "98% repayment rate via automated deductions",
+    ],
+    image: TranscreditImg,
   },
   {
     title: "BigInstitutionfx",
