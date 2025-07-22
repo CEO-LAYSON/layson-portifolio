@@ -37,8 +37,8 @@ export default function Hero() {
             Software Engineer & Full-Stack Developer
           </h2>
           <p className="text-gray-400 mb-8 max-w-lg">
-            Final-year Software Engineering student passionate about building
-            modern web and mobile applications with cutting-edge technologies.
+            Passionate Software Engineer specializing in modern web and mobile
+            applications built with cutting-edge technologies.
           </p>
           <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 justify-center md:justify-start">
             <motion.a
