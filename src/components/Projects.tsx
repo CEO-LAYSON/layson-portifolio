@@ -5,6 +5,7 @@ import { FaGithub, FaExternalLinkAlt, FaTimes } from "react-icons/fa";
 import NbtsImg from "../assets/project1.png";
 import BigInstitutionVideo from "../assets/biginstitution-demo.mp4";
 import TranscreditImg from "../assets/transcredit.png";
+import MiniNetumoImg from "../assets/mininetumo.jpg";
 
 const projects = [
   {
@@ -47,6 +48,16 @@ const projects = [
       "98% repayment rate via automated deductions",
     ],
     image: TranscreditImg,
+  },
+  {
+    title: "Mini Netumo Web Application",
+    description:
+      "A mini project focused on creating a lightweight and efficient deployment stack using Nginx, Docker, and CI/CD pipelines. It ensures reliable health system monitoring, automates deployment processes, and maintains high availability with scalable infrastructure. The platform aims to simplify deployment workflows and enhance system robustness.",
+    technologies: ["NestJS", "ReactJS", "Docker", "CI/CD"],
+    githubFrontend: "https://github.com/SE-STUDENTS-GROUP3/mini-netumo-app",
+    githubBackend: "https://github.com/SE-STUDENTS-GROUP3/mini-netumo-app",
+    liveLink: "https://netumo.seranise.co.tz/",
+    image: MiniNetumoImg,
   },
   {
     title: "BigInstitutionfx",
