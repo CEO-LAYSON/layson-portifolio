@@ -149,7 +149,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="text-gray-400 font-medium">Location</h4>
-                  <p className="text-white">Dodoma, Tanzania</p>
+                  <p className="text-white">Dar es salaam, Tanzania</p>
                 </div>
               </div>
 
