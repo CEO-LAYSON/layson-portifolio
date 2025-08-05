@@ -40,7 +40,7 @@ const projects = [
       "Swagger API Docs",
     ],
     githubFrontend: "https://github.com/CEO-LAYSON/transcredit.git",
-    liveLink: "https://transcredit.netlify.app/",
+    liveLink: "https://transcredit.co.tz/",
     achievements: [
       "Reduced loan approval time from 48hrs to <2 minutes",
       "Integrated with 15+ mobile money providers",
